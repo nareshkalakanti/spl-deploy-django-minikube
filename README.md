@@ -12,5 +12,5 @@ docker-compose run --rm app sh -c "python manage.py createsuperuser"
 
 ```
 minikube start --nodes 3
-
+minikube dashboard
 ```
